@@ -1,20 +1,12 @@
 # BLINKIT
 🔍 Project Overview:
-In this project, I analyzed Blinkit's data using Kaggle, processed and cleaned it in SQL, and leveraged Power BI for visualization. 
-The result? A 7-page interactive dashboard that provides deep insights into Blinkit's operations:
-📌 Home Page – Overview of the project
-📌 Sales Overview – Analysis of products, payment methods, and revenue
-📌 Customer Insights – Data on new, lost, and repeat customers
-📌 Feedback Analysis – Customer ratings and satisfaction trends
-📌 Inventory Management – Stock details and supply chain insights
-📌 Marketing Performance – Evaluation of Blinkit's overall growth and strategies
+Blinkit Sales Data Pipeline & Reporting | Python, SQL, Power BI, Excel
+Designed and implemented a mini data pipeline to process Blinkit’s mock sales data for reporting and business insights.
 
-🛠 Tech Stack Used:
-✔ Data Collection & Cleaning: Kaggle, SQL
-✔ Data Visualization: Power BI
-✔ UI/UX Design: Figma
-This major project has helped me deepen my understanding of data science tools, real-time analysis, and business intelligence. I am excited to continue working on such impactful projects and refining my skills further.
+Built automated ETL workflows using Python and SQL to extract raw transactional data, clean and transform it into structured formats, and load it into Excel/Power BI for visualization.
 
-💡 Looking forward to connecting with professionals in the industry and gaining more insights. Your feedback is always welcome!
+Developed SQL queries to compute key performance metrics such as revenue, order volume, product category performance, and customer behavior trends.
 
-#DataAnalysis #SQL #PowerBI #RealTimeData #Blinkit #BusinessIntelligence #Figma #DataScience #DashboardDesign #Growth
+Created interactive dashboards in Power BI with features like scheduled refresh, filters, and drill-downs to help simulate real-time business decision-making.
+
+Ensured data quality, consistency, and refresh efficiency, enabling simulated stakeholders to act on timely and reliable sales insights.
